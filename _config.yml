@@ -22,7 +22,7 @@ repository               : "https://goodmike31.github.io/michaljunczyk/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Michał Junczyk"
   pronouns         : # example: "she/her"  
   bio              : "I enjoy transforming real-world complexity into structured data to build and improve machine learning systems."
   location         : "Warsaw"
