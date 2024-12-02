@@ -21,7 +21,7 @@ repository               : "https://goodmike31.github.io/michaljunczyk/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "1547557877411.jpeg"
   name             : "Michał Junczyk"
   pronouns         : # example: "she/her"  
   bio              : "I enjoy transforming real-world complexity into structured data to build and improve machine learning systems."
